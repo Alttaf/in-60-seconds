@@ -10,15 +10,14 @@ linked in : www.linkedin.com/in/alttaf
 
 ---
 
-## Add Some Slide Candy
+## Why? Back Story
 
-![](assets/img/presentation.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize the Layout
+## Current Architecture
 @snapend
 
 @snap[east span-50]
