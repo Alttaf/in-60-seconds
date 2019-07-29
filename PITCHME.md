@@ -1,10 +1,13 @@
 # Hello Everyone.
 
-Tech/Team Lead Yoti Sign
-![](assets/img/presentation.png)
+## Tech/Team Lead Yoti Sign
 
-twitter: @AlttafHussain
-linked : www.linkedin.com/in/alttaf
+### Simple, fast, safe
+
+Yoti Sign is the new way to sign documents online using verified digital identities
+
+twitter: @AlttafHussain 
+linked in : www.linkedin.com/in/alttaf
 
 
 ---
