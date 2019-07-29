@@ -1,8 +1,6 @@
 # Alttaf Hussain
 
-## Tech/Team Lead Yoti Sign
-
-### Simple, fast, safe
+### Tech/Team Lead Yoti Sign
 
 Yoti Sign is the new way to sign documents online using verified digital identities
 
